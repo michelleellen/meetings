@@ -17,7 +17,8 @@ Contributor updates:
 
 * Berty presentation on GnoSocial and Q&A
 * Onbloc updates 
-* Multi sig proposal 
+* Multi sig proposal
+* Teritori On chain Project Management and VRF hackerspace
 
 General Core Team
 
@@ -25,3 +26,8 @@ General Core Team
 
 * Portal Loop overview 
 
+* proposal: gno.mod resolve directive [#1352](https://github.com/gnolang/gno/issues/1352)
+
+* Time & block height manipulation in tests [#1165](https://github.com/gnolang/gno/issues/1165)
+
+  
