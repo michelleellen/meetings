@@ -4,7 +4,7 @@
 
 Join Gnolang's core tech team and partners for the bi-weekly developer call, a regular sync with Gnolang developers working on the technology and community members interested in the engineering and development discussions. You can find the proposed agenda below, if you have additional technical points to discuss, please add them to this issue.
 
-Date: November 14th at 5pm CET and 9am PST
+Date: November 15th at 5pm CET and 9am PST
 Dial in details shared with core contributors (if you're interested in joining, and actively contributing to the code base, please reach out).
 
 You can add the Developer Call to your calendar here.
