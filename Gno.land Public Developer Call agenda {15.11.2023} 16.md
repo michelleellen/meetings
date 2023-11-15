@@ -16,9 +16,10 @@ Duration: one hour and next call would be November 29th in potentially a modifie
 Contributor updates:
 
 * Berty presentation on GnoSocial and Q&A
-* Onbloc updates 
-* Multi sig proposal
-* Teritori On chain Project Management and VRF hackerspace
+* Onbloc updates ?
+* Multi sig proposal (https://github.com/gnolang/ecosystem-fund-grants/pull/7)
+* Teritori On chain Project Management and VRF hackerspace (https://github.com/gnolang/hackerspace/issues/7#issuecomment-1811528995)
+* Flippando updates?
 
 General Core Team
 
